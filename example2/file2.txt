@@ -1,0 +1,12 @@
+Student, Nota examen
+Bogdan, 7
+Cristi, 7
+Andrei, 10
+Dan, 10
+Fabian, 6
+Constantin, 5
+Florin, 4
+Vasile, 5
+Gheorghe, 3
+Costin, 4
+Ianis, 3

@@ -1,0 +1,13 @@
+Student, Nota examen
+Ionut, 5
+Mircea, 7
+Marian, 9
+George, 10
+Razvan, 7
+Emil, 8
+Alex, 10
+Stefan, 9
+Cosmin, 8
+Gabriel, 5
+Marcel, 3
+Radu, 7
